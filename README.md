@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact)](https://github.com/AngelMancha/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AngelMancha&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **AngelMancha/AngelMancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
