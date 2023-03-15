@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact)](https://github.com/AngelMancha/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact" alt="Top Langs" width=49% height=48%>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AngelMancha&theme=dark)](https://git.io/streak-stats)
 
 <!--
