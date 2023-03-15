@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact" alt="Top Langs" width=60% height=48%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact" alt="Top Langs" width=400 height=400>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AngelMancha&theme=dark)](https://git.io/streak-stats)
 
