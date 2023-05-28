@@ -32,7 +32,7 @@ Welcome to my GitHub profile!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AngelMancha&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelMancha&show_icons=true&theme=dark)
+
 
 ## 🌐 Connect with Me
 
