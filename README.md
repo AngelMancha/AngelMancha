@@ -3,8 +3,14 @@
 I'm Angel Mancha, a third-year computer science engineering student with a true passion for software development and learning new technologies. What characterizes me most is my commitment, consistency, and willingness to improve myself every day and seek new opportunities to learn and grow in the field of software development. I am deeply familiar with working on projects in collaborative environments where I can work with others to find creative solutions to complex problems.
 Welcome to my GitHub profile!
 
-## 🔧 Technologies & Tools
+## 🚀 About Me
 
+- 💼 Computer Science Engineering Student
+- 🌱 Passionate about software development
+- 👯 Enjoy collaborating with others on projects
+- 📚 Constantly learning and exploring new technologies
+
+## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -22,21 +28,16 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AngelMancha&theme=dark)](https://git.io/streak-stats)
 
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelMancha&show_icons=true&theme=dark)
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/ángel-josé-mancha-núñez)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ángel-josé-mancha-núñez)
 
-
-Feel free to explore my repositories and connect with me on LinkedIn, visit my website, follow me on Twitter, or check out my articles on Dev.to for more insights and updates!
+Feel free to explore my repositories and connect with me on LinkedIn!
 
 Let's code and build amazing things together. Happy coding! 😄
