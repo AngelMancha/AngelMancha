@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Angel Mancha, a third-year computer science engineering student with a true passion for software development and learning new technologies. What characterizes me most is my commitment, consistency, and willingness to improve myself every day and seek new opportunities to learn and grow in the field of software development. I am deeply familiar with working on projects in collaborative environments where I can work with others to find creative solutions to complex problems.
+I'm Angel Mancha, a third-year computer science engineering student with a true passion for software development. What characterizes me most is my commitment, consistency, and willingness to improve and seek new opportunities to learn and grow in the field of software development. I am deeply familiar with working on projects in collaborative environments to find creative solutions to complex problems.
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
