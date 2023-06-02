@@ -31,8 +31,8 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact&theme=dark)
-
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelMancha&show_icons=true&locale=en&layout=compact" alt="AngelMancha" theme=dark />
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AngelMancha&theme=dark)](https://git.io/streak-stats)
 
 
