@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+
+
 I'm Angel Mancha, a third-year computer science engineering student with a true passion for software development. What characterizes me most is my commitment, consistency, and willingness to improve and seek new opportunities to learn and grow in the field of software development. I am deeply familiar with working on projects in collaborative environments to find creative solutions to complex problems.
 Welcome to my GitHub profile!
 
@@ -44,3 +46,4 @@ Welcome to my GitHub profile!
 Feel free to explore my repositories and connect with me on LinkedIn!
 
 Let's code and build amazing things together. Happy coding! 😄
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AngelMancha&label=Profile%20views&color=0e75b6&style=flat" alt="AngelMancha" /> </p>
