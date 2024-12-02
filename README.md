@@ -14,6 +14,7 @@ Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -35,10 +36,6 @@ Welcome to my GitHub profile!
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelMancha&show_icons=true&locale=en&layout=compact" alt="AngelMancha" theme=dark />
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AngelMancha&theme=dark)](https://git.io/streak-stats)
-
-
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ángel-josé-mancha-núñez)
