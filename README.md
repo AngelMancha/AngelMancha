@@ -2,12 +2,12 @@
 
 
 
-I'm Angel Mancha, a fourth-year computer science engineering student with a true passion for software development. What characterizes me most is my commitment, consistency, and willingness to improve and seek new opportunities to learn and grow in the field of software development. I am deeply familiar with working on projects in collaborative environments to find creative solutions to complex problems.
+I'm Angel Mancha, graduated in Computer Engineering at UC3M and with a true passion for software development. What characterizes me most is my commitment, consistency, and willingness to improve and seek new opportunities to learn and grow in the field of software development. I am deeply familiar with working on projects in collaborative environments to find creative solutions to complex problems.
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 💼 Computer Science Engineering Student
+- 💼 Computer Science Engineering Graduate
 - 🌱 Passionate about software development
 - 👯 Enjoy collaborating with others on projects
 - 📚 Constantly learning and exploring new technologies
