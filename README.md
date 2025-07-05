@@ -9,25 +9,77 @@ Welcome to my GitHub profile!
 - 🌱 Passionate about software development  
 - 👯 Enjoy collaborating with others on projects  
 - 📚 Constantly learning and exploring new technologies  
-
 ## 🔧 Technologies & Tools
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="60"/>
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Boot" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="60"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="60"/>
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="60"/>
-  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" height="60"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="60"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="60"/>
-  <img src="https://cdn.simpleicons.org/postgresql/CC2927" alt="SQL" height="60"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="60"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="60"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="60"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="60"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="60"/>
-</p>
+
+<table align="center" border="12" cellspacing="12" cellpadding="12">
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Boot" height="40" width="40"/><br/>
+      <sub>Spring Boot</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" width="40"/><br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" width="40"/><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="40" width="40"/><br/>
+      <sub>Kubernetes</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/c/00599C" alt="C" height="40" width="40"/><br/>
+      <sub>C</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" width="40"/><br/>
+      <sub>C++</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" width="40"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="40" width="40"/><br/>
+      <sub>Azure</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/postgresql/CC2927" alt="PostgreSQL" height="40" width="40"/><br/>
+      <sub>PostgreSQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" width="40"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" width="40"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" width="40"/><br/>
+      <sub>Linux</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40" width="40"/><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" width="40"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Stats
 
