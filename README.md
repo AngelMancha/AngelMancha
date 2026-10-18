@@ -1,107 +1,96 @@
-# Hi there! 👋
+<div align="center">
 
-I'm Angel Mancha, graduated in Computer Engineering at UC3M and with a true passion for software development. What characterizes me most is my commitment, consistency, and willingness to improve and seek new opportunities to learn and grow in the field of software development. I am deeply familiar with working on projects in collaborative environments to find creative solutions to complex problems.  
-Welcome to my GitHub profile!
+# Hi there! I'm Ángel Mancha 👋
+### Cloud & Backend Software Engineer | Hexagonal DDD • Distributed Systems • DevSecOps
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ngel-jos%C3%A9-mancha-n%C3%BA%C3%B1ez/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/AngelMancha)
+[![Current Role](https://img.shields.io/badge/Openbank-Backend_Engineer-E60000?style=for-the-badge&logo=santander&logoColor=white)](https://www.openbank.es/)
+[![Education](https://img.shields.io/badge/UC3M-B.S._Computer_Engineering-002E6D?style=for-the-badge&logo=almamater&logoColor=white)](https://www.uc3m.es/)
 
-- 💼 Currently working at Openbank as a backend engineer
-- 🌱 Passionate about software development  
-- 👯 Enjoy collaborating with others on projects  
-- 📚 Constantly learning and exploring new technologies  
-## 🔧 Technologies & Tools
-
-<table align="center" border="12" cellspacing="12" cellpadding="12">
-  <tr>
-    <td align="center" style="padding: 12px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40"/><br/>
-      <sub>Java</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Boot" height="40" width="40"/><br/>
-      <sub>Spring Boot</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" width="40"/><br/>
-      <sub>AWS</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" width="40"/><br/>
-      <sub>Docker</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="40" width="40"/><br/>
-      <sub>Kubernetes</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/c/00599C" alt="C" height="40" width="40"/><br/>
-      <sub>C</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" width="40"/><br/>
-      <sub>C++</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" width="40"/><br/>
-      <sub>Python</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="40" width="40"/><br/>
-      <sub>Azure</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/postgresql/CC2927" alt="PostgreSQL" height="40" width="40"/><br/>
-      <sub>PostgreSQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" width="40"/><br/>
-      <sub>MongoDB</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" width="40"/><br/>
-      <sub>Git</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" width="40"/><br/>
-      <sub>Linux</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40" width="40"/><br/>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" width="40"/><br/>
-      <sub>JavaScript</sub>
-    </td>
-  </tr>
-</table>
-
-
-## 📊 GitHub Stats
+<br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact&theme=dark" alt="Top Languages" />
+  <em>"Software resilience is achieved through clean architecture, deterministic testing, and continuous zero-trust security."</em>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMancha&theme=dark" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngelMancha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+---
 
-## 🌐 Connect with Me
+### 👨‍💻 About Me
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ángel-josé-mancha-núñez)
-  &nbsp;&nbsp;&nbsp;
-  [![Website](https://img.shields.io/badge/-Website-4CAF50?logo=web&logoColor=white&style=flat-square)](https://jade-moonbeam-2baa56.netlify.app/)
+- 💼 **Backend Software Engineer at [Openbank](https://www.openbank.es/)** (Santander Group's Digital Bank), building reliable, high-concurrency microservices in cloud environments.
+- 🎓 **B.S. in Computer Science & Engineering** from **Universidad Carlos III de Madrid (UC3M)**.
+- 🏛️ **Architecture & Domain Design**: Strong advocate of **Hexagonal Architecture (Ports & Adapters)**, **Domain-Driven Design (DDD)**, and architectural governance enforced with **ArchUnit**.
+- 🔐 **Security & Cryptography**: Experience implementing **Zero-Knowledge envelope encryption (KMS RSA-2048 + AES-256-GCM)**, stateless JWT authentication, and row-level tenant isolation.
+- ⚡ **Systems & Cloud Engineering**: Proficient in high-performance native engines in **C/C++** (POSIX sockets, multithreading), containerized workflows with **Docker & Kubernetes (AKS)**, and automated **CI/CD pipelines with GitHub Actions and Aqua Trivy** vulnerability scanners (0 Critical/High CVE gates).
 
-Feel free to explore my repositories and connect with me on LinkedIn!
+---
 
-Let's code and build amazing things together. Happy coding! 😄
+### 🌟 Featured Flagship Projects
 
+| Project | Highlights & Architectural Focus | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| [**FinMaxium**](https://github.com/AngelMancha/FinMaxiumApp) | **Cloud Banking Reconciliation & Analytics Platform**<br/>• Solves the shared expense illusion via atomic transaction netting (`AdjustPayment`).<br/>• Envelope cryptography (KMS style) ensuring 100% data privacy without direct bank access.<br/>• Multi-stage Docker deployment on **Render PaaS** backed by **Supabase PostgreSQL 15**. | `Java 17` `Spring Boot 3` `Hexagonal DDD` `PostgreSQL` `Docker` `CI/CD Trivy` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-10B981?style=flat-square)](https://finmaxium-frontend.onrender.com/) |
+| [**CoTaskPilot Pro**](https://github.com/AngelMancha) | **Distributed Sprint & Team Management Suite (TFG UC3M)**<br/>• Multi-service distributed architecture deployed on **Azure Kubernetes Service (AKS)**.<br/>• High-performance socket server written in C for real-time task orchestration.<br/>• Decoupled microservices with zero-downtime rolling updates. | `C` `Kubernetes (AKS)` `Docker` `Node.js` `MongoDB` `Azure` | [![Code](https://img.shields.io/badge/Repo-Private/Grad-blue?style=flat-square)](#) |
+| [**SleepGo**](https://github.com/AngelMancha/HTTP_SleepGo) | **Real-Time Transit Geofencing Proximity Alarm (PWA)**<br/>• Haversine geodesic distance algorithm with adaptive GPS throttling for battery conservation.<br/>• 100% client-side zero-cloud privacy architecture with Web Audio & Haptic triggers. | `JavaScript ES6+` `PWA` `Geolocation API` `Haversine` `Netlify` | [![Live App](https://img.shields.io/badge/Live_App-Netlify-00C7B7?style=flat-square)](https://capable-griffin-e1e3fe.netlify.app/) |
+
+---
+
+### 🛠️ Technical Stack & Tooling
+
+<div align="center">
+
+#### Backend & Core Languages
+![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Cloud, Containers & DevSecOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Trivy](https://img.shields.io/badge/Aqua_Trivy-00A98F?style=for-the-badge&logo=aquasec&logoColor=white)
+![Render](https://img.shields.io/badge/Render_PaaS-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+#### Architecture, Security & Databases
+![Hexagonal DDD](https://img.shields.io/badge/Hexagonal_DDD-ArchUnit-purple?style=for-the-badge)
+![Envelope Cryptography](https://img.shields.io/badge/Envelope_Crypto-RSA_+_AES-critical?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelMancha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="AngelMancha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMancha&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMancha&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+- 💼 **LinkedIn**: [in/ángel-josé-mancha-núñez](https://www.linkedin.com/in/%C3%A1ngel-jos%C3%A9-mancha-n%C3%BA%C3%B1ez/)
+- 🌐 **Online Portfolio**: [FinMaxium & Projects Showcase](https://finmaxium-frontend.onrender.com/)
+- 📧 **Direct Inquiries**: `ajmancha02@gmail.com`
+
+<div align="center">
+  <sub>Profile visits: <img src="https://komarev.com/ghpvc/?username=AngelMancha&label=&color=10B981&style=flat-square" alt="Profile views" /></sub>
+</div>
